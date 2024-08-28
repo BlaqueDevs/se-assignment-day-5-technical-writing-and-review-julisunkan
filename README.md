@@ -55,14 +55,23 @@ Explanation: "Checking if it will work" is more concrete and less abstract than 
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 By combining examples and visuals, you create a more comprehensive and accessible way to convey complex information, making it easier for others to grasp and retain the concepts. Here’s how they help:
-1. Examples
+
+### a. Examples
+
 •	Examples connect new information to familiar situations or experiences. For instance, if you're explaining a concept in programming like "loops," you might use an example of repeating a task like brushing your teeth every day. This makes the abstract idea of a loop more concrete and relatable.
+
 •	Examples show how a concept is applied in practice, which can clarify how it works. For instance, if you’re explaining a complex mathematical formula, demonstrating how it’s used in a real-world problem can make the formula’s purpose and application clearer.
+
 •	: Examples often break down a concept into smaller, manageable parts. For example, when teaching a complex scientific theory, you might provide a step-by-step example that illustrates each stage of the theory in action.
-2. Visuals
+
+### b. Visuals
+
 •	Diagrams, charts, and infographics provide a visual representation of information, making abstract concepts more concrete. For instance, a flowchart can visually map out the steps of a process, which can make it easier to understand compared to a written description.
+
 •	Visuals can improve retention by creating a mental image of the concept. For example, using a diagram to illustrate the structure of a cell can help learners remember the different parts and their functions better than text alone.
+
 •	Complex information can be simplified with visuals. For example, a complex data set can be presented as a graph or chart, making it easier to interpret patterns and trends.
+
 •	Visuals often make learning more engaging and less monotonous. They can capture attention and make the learning process more interactive. For instance, animated videos can demonstrate dynamic processes, making learning more engaging than static text.
 
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
